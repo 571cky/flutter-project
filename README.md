@@ -1,5 +1,8 @@
 # flutter-project
-Un proyecto de ejemplo para aprender a usar github
+Un proyecto de ejemplo para aprender a usar github.
 
 ## descripcion
-Proyecto inicial
+Proyecto inicial.
+
+## otra descripcion
+Algo para leer.
